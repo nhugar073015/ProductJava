@@ -14,6 +14,7 @@ public class ProductsApplication {
 		SpringApplication.run(ProductsApplication.class, args);
 		System.out.println("Product Application is Running now!...");
 		System.out.println("Just for testing!...");
+		System.out.println("Just for testing2!...");
 	}
 
 }
